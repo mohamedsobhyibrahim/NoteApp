@@ -46,6 +46,7 @@ public class CreateNoteActivity extends AppCompatActivity {
 
     private EditText inputNoteTitle, inputNoteSubtitle, inputNoteText;
     private TextView textDateTime;
+
     private ImageView imageBack;
     private ImageView imageSave;
     private View viewSubtitleIndicator;
