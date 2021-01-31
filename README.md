@@ -9,8 +9,8 @@ Simple Note App with Room Database
 - RoomDatabase
 
 # Images
-<img src="images/2.png" height="400" width="200">   <img src="images/1.png" height="400" width="200">  <img src="images/4.png" height="400" width="200">
-<img src="images/3.png" height="400" width="200">   <img src="images/5.png" height="400" width="200">
+<img src="images/2.JPG" height="400" width="200">   <img src="images/1.JPG" height="400" width="200">  <img src="images/4.JPG" height="400" width="200">
+<img src="images/3.JPG" height="400" width="200">   <img src="images/5.JPG" height="400" width="200">
 
 
 # Author
